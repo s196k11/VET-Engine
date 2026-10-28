@@ -1,0 +1,368 @@
+{
+    "unit_code": "CPCCBC4008",
+    "elements": [
+        {
+            "number": "1",
+            "title": "Supervise the administration of quality control compliance.",
+            "performance_criteria": [
+                {
+                    "number": "1.1",
+                    "text": "Identify project quality control compliance requirements."
+                },
+                {
+                    "number": "1.2",
+                    "text": "Communicate organisational quality control processes and industry requirements to relevant personnel."
+                },
+                {
+                    "number": "1.3",
+                    "text": "Develop processes to ensure onsite work performance meets industry regulatory framework, jurisdictional requirements and quality control standards."
+                },
+                {
+                    "number": "1.4",
+                    "text": "Confirm that regulatory, jurisdictional and organisational compliance and quality control requirements have been met."
+                },
+                {
+                    "number": "1.5",
+                    "text": "Access or develop schedules and checklists detailing specific inspections to be conducted at appropriate stages of construction."
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "title": "Supervise the administration of projects.",
+            "performance_criteria": [
+                {
+                    "number": "2.1",
+                    "text": "Identify project administration requirements."
+                },
+                {
+                    "number": "2.2",
+                    "text": "Authorise payment of material and contractor invoices, drawing against contract allowances and back-charges, as required."
+                },
+                {
+                    "number": "2.3",
+                    "text": "Authorise variations to contracts and take corrective action as required."
+                },
+                {
+                    "number": "2.4",
+                    "text": "Process insurance claims for site loss or damage."
+                }
+            ]
+        },
+        {
+            "number": "3",
+            "title": "Supervise the use of site communications and record keeping systems.",
+            "performance_criteria": [
+                {
+                    "number": "3.1",
+                    "text": "Develop and implement systems for effective communication between onsite and offsite staff, contractors and suppliers that systematically gather onsite information."
+                },
+                {
+                    "number": "3.2",
+                    "text": "Develop and implement construction project recording systems to capture relevant project details."
+                },
+                {
+                    "number": "3.3",
+                    "text": "Maintain a daily communications diary and key events."
+                },
+                {
+                    "number": "3.4",
+                    "text": "Record information relating to certifier inspections, union and legislative matters."
+                }
+            ]
+        },
+        {
+            "number": "4",
+            "title": "Conduct onsite project monitoring and inspection of work quality",
+            "performance_criteria": [
+                {
+                    "number": "4.1",
+                    "text": "Apply workplace safety requirements and project administration procedures during onsite visit."
+                },
+                {
+                    "number": "4.2",
+                    "text": "Conduct onsite project monitoring and inspection of work quality."
+                },
+                {
+                    "number": "4.3",
+                    "text": "Inspect and record quality of work, notify relevant people of defects and issue rectification notice."
+                },
+                {
+                    "number": "4.4",
+                    "text": "Develop systems to monitor rectified work to ensure compliance with organisational quality control requirements, building standards and client satisfaction."
+                }
+            ]
+        },
+        {
+            "number": "5",
+            "title": "Complete project administration processes.",
+            "performance_criteria": [
+                {
+                    "number": "5.1",
+                    "text": "Record work defects notified by external parties, establish liabilities and remedial action required, and develop inspection checklist."
+                },
+                {
+                    "number": "5.2",
+                    "text": "Notify client of rectification, and record client’s response to completed work."
+                },
+                {
+                    "number": "5.3",
+                    "text": "Instigate procedures that will result in client approval and acceptance where this was not the client’s initial response."
+                },
+                {
+                    "number": "5.4",
+                    "text": "Confirm contract requirements are fulfilled with relevant company personnel and client."
+                },
+                {
+                    "number": "5.5",
+                    "text": "Arrange for local authority completion inspection."
+                },
+                {
+                    "number": "5.6",
+                    "text": "Prepare certificates and appropriate client handover information, including all guarantees, warranties and termite protection forms."
+                }
+            ]
+        }
+    ],
+    "foundation_skills": [],
+    "performance_evidence": [
+        {
+            "id": "PE1",
+            "number": "1",
+            "text": "Developing a plan to supervise the administration processes for one building and construction project which is either a:",
+            "details": [
+                {
+                    "text": "Class 1 to a maximum of two storeys, or",
+                    "children": []
+                },
+                {
+                    "text": "Class 2 to 9, Type C building",
+                    "children": []
+                },
+                {
+                    "text": "In doing this, the candidate must:",
+                    "children": [
+                        {
+                            "number": "a",
+                            "text": "Create a plan to implement, administer, maintain and monitor site quality control.",
+                            "children": []
+                        },
+                        {
+                            "number": "b",
+                            "text": "Read and understand thoroughly the Site Safety Plan used on site.",
+                            "children": []
+                        },
+                        {
+                            "number": "c",
+                            "text": "Outline the communication systems that will be used on site.",
+                            "children": []
+                        },
+                        {
+                            "number": "d",
+                            "text": "Outline how systematic gathering of onsite information will be recorded.",
+                            "children": []
+                        },
+                        {
+                            "number": "e",
+                            "text": "Develop a progress inspection checklist for at least two trades for a section of building.",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "PE2",
+            "number": "2",
+            "text": "Conducting at least one site inspection to evaluate safety, project progress and work quality for at least one section of a building.  This worksite must be for a building and construction project which is either a:",
+            "details": [
+                {
+                    "text": "Class 1 to a maximum of two storeys, or",
+                    "children": []
+                },
+                {
+                    "text": "Class 2 to 9, Type C building",
+                    "children": []
+                },
+                {
+                    "text": "In doing this, the candidate must submit the following two documents:",
+                    "children": [
+                        {
+                            "number": "a",
+                            "text": "The inspection checklist used",
+                            "children": []
+                        },
+                        {
+                            "number": "b",
+                            "text": "The rectification plan which outlines:",
+                            "children": [
+                                {
+                                    "number": "i",
+                                    "text": "What must be rectified",
+                                    "children": []
+                                },
+                                {
+                                    "number": "ii",
+                                    "text": "Why it must be rectified (with reference to appropriate standard, code or plan specification, etc)",
+                                    "children": []
+                                },
+                                {
+                                    "number": "iii",
+                                    "text": "The recommended order in which rectifications should be done",
+                                    "children": []
+                                },
+                                {
+                                    "number": "iv",
+                                    "text": "Expected duration of each rectification and when they are expected to be rectified by",
+                                    "children": []
+                                },
+                                {
+                                    "number": "v",
+                                    "text": "Who will carry out the rectification and how they will be notified",
+                                    "children": []
+                                },
+                                {
+                                    "number": "vi",
+                                    "text": "Will any rectifications affect the work remaining schedule, if yes - who did you notify.",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "knowledge_evidence": [
+        {
+            "id": "KE1",
+            "text": "building and construction industry contracts",
+            "children": []
+        },
+        {
+            "id": "KE2",
+            "text": "construction methodologies",
+            "children": []
+        },
+        {
+            "id": "KE3",
+            "text": "workplace procedures",
+            "children": []
+        },
+        {
+            "id": "KE4",
+            "text": "work health and safety (WHS):",
+            "children": [
+                {
+                    "text": "hierarchy of control"
+                },
+                {
+                    "text": "duty of care"
+                },
+                {
+                    "text": "risk assessment"
+                }
+            ]
+        },
+        {
+            "id": "KE5",
+            "text": "hierarchy of control",
+            "children": []
+        },
+        {
+            "id": "KE6",
+            "text": "duty of care",
+            "children": []
+        },
+        {
+            "id": "KE7",
+            "text": "risk assessment",
+            "children": []
+        },
+        {
+            "id": "KE8",
+            "text": "organisational quality management systems related to:",
+            "children": [
+                {
+                    "text": "communicating with regulatory authorities"
+                },
+                {
+                    "text": "worker and contractor payment systems"
+                },
+                {
+                    "text": "issuing of completion certificates and appropriate documentation"
+                },
+                {
+                    "text": "finalising project contractual agreements"
+                }
+            ]
+        },
+        {
+            "id": "KE9",
+            "text": "communicating with regulatory authorities",
+            "children": []
+        },
+        {
+            "id": "KE10",
+            "text": "worker and contractor payment systems",
+            "children": []
+        },
+        {
+            "id": "KE11",
+            "text": "issuing of completion certificates and appropriate documentation",
+            "children": []
+        },
+        {
+            "id": "KE12",
+            "text": "finalising project contractual agreements",
+            "children": []
+        },
+        {
+            "id": "KE13",
+            "text": "onsite communication:",
+            "children": [
+                {
+                    "text": "emails"
+                },
+                {
+                    "text": "face-to-face verbal communication"
+                },
+                {
+                    "text": "telephone contacts"
+                },
+                {
+                    "text": "site diaries"
+                },
+                {
+                    "text": "written reports and memoranda"
+                }
+            ]
+        },
+        {
+            "id": "KE14",
+            "text": "emails",
+            "children": []
+        },
+        {
+            "id": "KE15",
+            "text": "face-to-face verbal communication",
+            "children": []
+        },
+        {
+            "id": "KE16",
+            "text": "telephone contacts",
+            "children": []
+        },
+        {
+            "id": "KE17",
+            "text": "site diaries",
+            "children": []
+        },
+        {
+            "id": "KE18",
+            "text": "written reports and memoranda",
+            "children": []
+        }
+    ],
+    "assessment_conditions": "Assessors must meet the requirements for assessors contained in the Standards for Registered Training Organisations. Assessment can be undertaken in the workplace or in a simulated workplace environment. A simulated workplace is one that fully replicates the resources, environment and any time and productivity pressures that exist in the actual workplace, and which meets industry standards for safety and environmental practices. The simulated workplace environment must be developed in consultation with industry stakeholders. (see Companion Volume for guidance). Candidates must have access to: relevant jurisdictional safety legislation and regulations building and construction codes and standards relevant project plans and specifications organisational quality control documentation relevant to supervising the administration of quality control compliance, communications and recording systems, and work progress and quality business and safety equipment and materials to supervise administration processes for a building and construction project onsite."
+}
